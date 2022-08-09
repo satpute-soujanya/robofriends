@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soujanya-satpute/robofriends/static/css/main.c19fe406.css",
+    "main.js": "/soujanya-satpute/robofriends/static/js/main.71985a22.js",
+    "static/js/787.ebaa048f.chunk.js": "/soujanya-satpute/robofriends/static/js/787.ebaa048f.chunk.js",
+    "index.html": "/soujanya-satpute/robofriends/index.html",
+    "main.c19fe406.css.map": "/soujanya-satpute/robofriends/static/css/main.c19fe406.css.map",
+    "main.71985a22.js.map": "/soujanya-satpute/robofriends/static/js/main.71985a22.js.map",
+    "787.ebaa048f.chunk.js.map": "/soujanya-satpute/robofriends/static/js/787.ebaa048f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19fe406.css",
+    "static/js/main.71985a22.js"
+  ]
+}
