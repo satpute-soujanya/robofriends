@@ -4,6 +4,7 @@ import './index.css'
 import App from './containers/App'
 import reportWebVitals from './reportWebVitals'
 import 'tachyons'
+import { Provider, connect } from 'react-redux'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
