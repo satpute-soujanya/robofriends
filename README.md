@@ -1,4 +1,3 @@
-Live at: https://www.soujanyasatpute.me/robofriends/
 
 
 # Getting Started with Create React App
